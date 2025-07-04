@@ -1,0 +1,5 @@
+controller:
+  service:
+    loadBalancerIP: 52.249.247.176
+    annotations:
+      service.beta.kubernetes.io/azure-load-balancer-resource-group: MC_rg-aks-demo_aks-demo-cluster_eastus
